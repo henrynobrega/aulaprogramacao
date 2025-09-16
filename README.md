@@ -1,2 +1,4 @@
 # aulaprogramacao
-meu primeiro repositório, ainda sou leigo.
+## Henry nobrega
+### UC - programação de soluções computacionais 
+meu primeiro repositório.
